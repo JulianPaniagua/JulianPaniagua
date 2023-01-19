@@ -1,6 +1,6 @@
 * Hi, I’m [Julian Paniagua](https://github.com/JulianPaniagua). A 21-year-old software developer and entrepeneur.
 * 🏢 I'm the CEO and founder of my new startup [@Rakoonware](https://github.com/Rakoonware).
-* I started programming since I was 10 🙋🏻‍♂️. That means: 11 years of experience in software development.
+* I started programming since I was 10 🙋🏻‍♂️. That means: 12 years of experience in software development.
 * 📖I like to learn new things, I never stop improving my knowledge.
 * Well, it is hard to attend college 🏫 and run a startup 🏢 at the same time, but I never give up.
 
